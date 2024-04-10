@@ -1,0 +1,5 @@
+pip install opencv-python
+
+pip install mediapipe
+
+https://github.com/UB-Mannheim/tesseract/wiki
